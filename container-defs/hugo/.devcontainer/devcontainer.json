@@ -6,8 +6,8 @@
 		"args": {
 			"VARIANT": "buster",
 			"GOVERSION": "1.15.4",
-			"HTTP_PROXY": "192.168.31.161:10809",
-			"HTTPS_PROXY": "192.168.31.161:10809",
+			"HTTP_PROXY": "127.0.0.1:10809",
+			"HTTPS_PROXY": "127.0.0.1:10809",
 		}
 	},
 	// Set *default* container specific settings.json values on container create.

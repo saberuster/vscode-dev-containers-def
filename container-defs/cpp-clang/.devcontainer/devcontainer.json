@@ -5,7 +5,7 @@
 		// Update 'VARIANT' to pick an Debian / Ubuntu OS version: debian-10, debian-9, ubuntu-20.04, ubuntu-18.04
 		"args": {
 			"VARIANT": "debian-10",
-			"HTTP_PROXY": "http://192.168.31.161:10809"
+			"HTTP_PROXY": "http://127.0.0.1:10809"
 		}
 	},
 	"runArgs": [
